@@ -9,7 +9,7 @@ html body{
     width: 50px;
 }
 .navbar{
-    background-color: #000 !important;
+    background-color: #991111 !important;
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ html body{
 }
 #main-banner h1{
     color: #fff;
-    background-color: #000;
+    background-color: #991111;
     text-align: center;
     padding: 30px;
     text-transform: uppercase;
@@ -68,8 +68,8 @@ html body{
 }
 
 .btn.btn-primary{
-    background-color: #000;
-    border-color: #000;
+    background-color: #991111;
+    border-color: #991111;
 }
 
 /*ALERTA*/
@@ -100,7 +100,7 @@ footer{
     position: relative;
     width: 100%;
     height: 175px;
-    background-color: #000;
+    background-color: #991111;
     color: #fff;
     display: flex;
     justify-content: center;
